@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of the implemented features:
 
-<img src='http://i.imgur.com/yourgif.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+<img src="assets/Walkthrough.gif" alt="Website Walkthrough" width="600"/>
 
 GIF created with Kap  
 <!-- Recommended tools:
